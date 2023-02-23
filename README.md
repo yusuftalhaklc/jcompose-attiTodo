@@ -38,16 +38,15 @@ In my application, I added UI elements for users to add, delete, and edit tasks.
 - [Material Design 3](https://m3.material.io/) is the latest version of Google’s open-source design system.
 - [Navigation Component](https://developer.android.com/guide/navigation)
 - [JetPack](https://developer.android.com/jetpack)
-    - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Notify domain layer data to views.
-    - [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) - Dispose of observing data when lifecycle state changes.
-    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - UI related data holder, lifecycle aware.
+    - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) 
+    - [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) 
+    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) 
 - Architecture
   - MVVM Architecture (View - ViewModel - Model)
   - Repository pattern
   - Clean Architecture approach.
 - [Navigation Component](https://developer.android.com/guide/navigation)
-- [Room Database](https://developer.android.com/training/data-storage/room) - An image loading library for Android backed by Kotlin Coroutines
-- [Splash Screen](https://developer.android.com/develop/ui/views/launch/splash-screen) 
+- [Room Database](https://developer.android.com/training/data-storage/room) 
     
 
 #### Modules Design:
