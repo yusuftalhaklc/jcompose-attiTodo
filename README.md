@@ -45,7 +45,7 @@ In my application, I added UI elements for users to add, delete, and edit tasks.
   - MVVM Architecture (View - ViewModel - Model)
   - Repository pattern
   - Clean Architecture approach.
-- [Navigation Component](https://developer.android.com/guide/navigation) - Single activity multiple fragments approach
+- [Navigation Component](https://developer.android.com/guide/navigation)
 - [Room Database](https://developer.android.com/training/data-storage/room) - An image loading library for Android backed by Kotlin Coroutines
 - [Splash Screen](https://developer.android.com/develop/ui/views/launch/splash-screen) 
     
