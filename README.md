@@ -36,7 +36,7 @@ In my application, I added UI elements for users to add, delete, and edit tasks.
 - 100% [Kotlin](https://kotlinlang.org/) based 
 - [MVVM Architecture](https://developer.android.com/jetpack/guide) - Modern, maintainable, and Google suggested app architecture
 - [Material Design 3](https://m3.material.io/) is the latest version of Google’s open-source design system.
-- [Navigation Component](https://developer.android.com/guide/navigation) - Single activity multiple fragments approach
+- [Navigation Component](https://developer.android.com/guide/navigation)
 - [JetPack](https://developer.android.com/jetpack)
     - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Notify domain layer data to views.
     - [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) - Dispose of observing data when lifecycle state changes.
