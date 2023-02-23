@@ -61,6 +61,9 @@ In my application, I added UI elements for users to add, delete, and edit tasks.
   - Detail
   - Home
 
+# Design
+[https://cdn.dribbble.com/users/509287/screenshots/6581661/3x.png](https://cdn.dribbble.com/users/509287/screenshots/6581661/3x.png)
+
 ### Connect with me
 
 <p >
